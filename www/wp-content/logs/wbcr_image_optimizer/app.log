@@ -1,0 +1,867 @@
+
+09-09-2021 03:14:28 [linviolin-poznan.pl][info] Parent plugin start installation!
+09-09-2021 03:14:28 [linviolin-poznan.pl][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.4
+09-09-2021 03:14:28 [linviolin-poznan.pl][info] Parent plugin installation complete!
+-------------------------------
+09-09-2021 03:15:19 [linviolin-poznan.pl][info] Try to create backup directory. Backup dir: (/home/linvioo/www/wp-content/uploads/wio_backup)
+-------------------------------
+09-09-2021 03:51:33 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 61
+09-09-2021 03:51:33 [linviolin-poznan.pl][info] Try to create backup directory. Backup dir: (/home/linvioo/www/wp-content/uploads/wio_backup/2021/09)
+09-09-2021 03:51:33 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 03:51:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 03:51:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 03:51:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 03:51:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][debug] New queue created #1, attributes values: {"server_id":null,"object_id":61,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":451720,"final_size":201133,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":284522,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631152295}
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 61
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 03:51:36 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:36 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 03:51:36 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:36 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 03:51:36 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:51:36 [linviolin-poznan.pl][debug] New queue created #2, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631152296}
+09-09-2021 03:51:36 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 03:53:57 [linviolin-poznan.pl][debug] Deleted queue item #2
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:53:57 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:53:58 [linviolin-poznan.pl][debug] New queue created #3, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631152438}
+09-09-2021 03:53:58 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 03:55:45 [linviolin-poznan.pl][debug] Deleted queue item #3
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:55:45 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 03:55:46 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:55:46 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 03:55:46 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:55:46 [linviolin-poznan.pl][debug] New queue created #4, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631152546}
+09-09-2021 03:55:46 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 03:56:20 [linviolin-poznan.pl][debug] Deleted queue item #4
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 03:56:21 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:21 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 03:56:21 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:21 [linviolin-poznan.pl][debug] New queue created #5, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631152581}
+09-09-2021 03:56:21 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 03:56:55 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 03:56:55 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 03:56:55 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 03:56:55 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 03:56:55 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 03:56:55 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 03:56:55 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 03:56:55 [linviolin-poznan.pl][debug] Deleted queue item #5
+09-09-2021 03:56:55 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:56 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 03:56:57 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 03:56:57 [linviolin-poznan.pl][debug] New queue created #6, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631152617}
+09-09-2021 03:56:57 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 04:10:18 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 04:10:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 04:10:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 04:10:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 04:10:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 04:10:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 04:10:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 04:10:18 [linviolin-poznan.pl][debug] Deleted queue item #6
+09-09-2021 04:10:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 04:10:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:10:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 04:10:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:10:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 04:10:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:10:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 04:10:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:10:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 04:10:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:10:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 04:10:21 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:10:21 [linviolin-poznan.pl][debug] New queue created #7, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631153421}
+09-09-2021 04:10:21 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 04:26:42 [linviolin-poznan.pl][debug] Deleted queue item #7
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:26:42 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 04:26:43 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:26:43 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 04:26:43 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:26:43 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 04:26:43 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:26:43 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 04:26:43 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:26:43 [linviolin-poznan.pl][debug] New queue created #8, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631154403}
+09-09-2021 04:26:43 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 04:29:34 [linviolin-poznan.pl][debug] Deleted queue item #8
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:29:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 04:29:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:29:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 04:29:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:29:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 04:29:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:29:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 04:29:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:29:35 [linviolin-poznan.pl][debug] New queue created #9, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631154575}
+09-09-2021 04:29:35 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 04:31:18 [linviolin-poznan.pl][debug] Deleted queue item #9
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 04:31:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:31:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 04:31:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:31:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 04:31:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:31:19 [linviolin-poznan.pl][debug] New queue created #10, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631154679}
+09-09-2021 04:31:19 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 04:35:00 [linviolin-poznan.pl][debug] Deleted queue item #10
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:35:00 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:35:01 [linviolin-poznan.pl][debug] New queue created #11, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631154901}
+09-09-2021 04:35:01 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 04:39:08 [linviolin-poznan.pl][debug] Deleted queue item #11
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 04:39:08 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:39:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 04:39:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:39:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 04:39:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:39:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 04:39:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:39:09 [linviolin-poznan.pl][debug] New queue created #12, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631155149}
+09-09-2021 04:39:09 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 04:41:38 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 82
+09-09-2021 04:41:38 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_2963.jpg) to a remote server (server_1).
+09-09-2021 04:41:39 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:41:39 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_2963-150x150.jpg) to a remote server (server_1).
+09-09-2021 04:41:39 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:41:39 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_2963-240x300.jpg) to a remote server (server_1).
+09-09-2021 04:41:39 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:41:39 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_2963-768x960.jpg) to a remote server (server_1).
+09-09-2021 04:41:39 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:41:39 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_2963-819x1024.jpg) to a remote server (server_1).
+09-09-2021 04:41:40 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:41:40 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_2963-1229x1536.jpg) to a remote server (server_1).
+09-09-2021 04:41:40 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:41:40 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_2963-1638x2048.jpg) to a remote server (server_1).
+09-09-2021 04:41:40 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:41:40 [linviolin-poznan.pl][debug] New queue created #13, attributes values: {"server_id":null,"object_id":82,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":5156297,"final_size":874994,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":4166752,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631155300}
+09-09-2021 04:41:40 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 82
+-------------------------------
+09-09-2021 04:56:53 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 88
+09-09-2021 04:56:53 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/funeral.png) to a remote server (server_1).
+09-09-2021 04:56:54 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:56:54 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/funeral-150x150.png) to a remote server (server_1).
+09-09-2021 04:56:54 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:56:54 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/funeral-300x221.png) to a remote server (server_1).
+09-09-2021 04:56:55 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:56:55 [linviolin-poznan.pl][debug] New queue created #14, attributes values: {"server_id":null,"object_id":88,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":651897,"final_size":210537,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":514087,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631156215}
+09-09-2021 04:56:55 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 88
+-------------------------------
+09-09-2021 04:57:17 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 89
+09-09-2021 04:57:17 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/2019_01_27_KAROLINAPAWEL_LukaszKaluga-350.jpg) to a remote server (server_1).
+09-09-2021 04:57:17 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/2019_01_27_KAROLINAPAWEL_LukaszKaluga-350-150x150.jpg) to a remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/2019_01_27_KAROLINAPAWEL_LukaszKaluga-350-300x240.jpg) to a remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/2019_01_27_KAROLINAPAWEL_LukaszKaluga-350-768x614.jpg) to a remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/2019_01_27_KAROLINAPAWEL_LukaszKaluga-350-1024x819.jpg) to a remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/2019_01_27_KAROLINAPAWEL_LukaszKaluga-350-1536x1229.jpg) to a remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:57:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/2019_01_27_KAROLINAPAWEL_LukaszKaluga-350-2048x1638.jpg) to a remote server (server_1).
+09-09-2021 04:57:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:57:19 [linviolin-poznan.pl][debug] New queue created #15, attributes values: {"server_id":null,"object_id":89,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":994345,"final_size":862641,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":307955,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631156239}
+09-09-2021 04:57:19 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 89
+-------------------------------
+09-09-2021 04:58:17 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 90
+09-09-2021 04:58:17 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/theProdigy.png) to a remote server (server_1).
+09-09-2021 04:58:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:58:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/theProdigy-150x150.png) to a remote server (server_1).
+09-09-2021 04:58:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:58:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/theProdigy-278x300.png) to a remote server (server_1).
+09-09-2021 04:58:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 04:58:18 [linviolin-poznan.pl][debug] New queue created #16, attributes values: {"server_id":null,"object_id":90,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":491576,"final_size":418737,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":410582,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631156298}
+09-09-2021 04:58:18 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 90
+-------------------------------
+09-09-2021 05:04:30 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 91
+09-09-2021 05:04:30 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/theProdigy-1.png) to a remote server (server_1).
+09-09-2021 05:04:31 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 05:04:31 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/theProdigy-1-150x150.png) to a remote server (server_1).
+09-09-2021 05:04:31 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 05:04:31 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/theProdigy-1-278x300.png) to a remote server (server_1).
+09-09-2021 05:04:31 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 05:04:31 [linviolin-poznan.pl][debug] New queue created #17, attributes values: {"server_id":null,"object_id":91,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":491576,"final_size":418737,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":410582,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631156671}
+09-09-2021 05:04:31 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 91
+-------------------------------
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 07:34:34 [linviolin-poznan.pl][debug] Deleted queue item #12
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:34:34 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 07:34:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:34:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 07:34:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:34:35 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 07:34:35 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:34:35 [linviolin-poznan.pl][debug] New queue created #18, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631165675}
+09-09-2021 07:34:35 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 07:36:25 [linviolin-poznan.pl][debug] Deleted queue item #18
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 07:36:25 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:36:28 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 07:36:28 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:36:28 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 07:36:29 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:36:29 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 07:36:29 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:36:29 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 07:36:29 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:36:29 [linviolin-poznan.pl][debug] New queue created #19, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631165789}
+09-09-2021 07:36:29 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 07:39:08 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 07:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 07:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 07:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 07:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 07:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 07:39:08 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 07:39:08 [linviolin-poznan.pl][debug] Deleted queue item #19
+09-09-2021 07:39:08 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 07:39:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:39:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 07:39:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:39:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 07:39:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:39:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 07:39:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:39:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 07:39:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:39:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 07:39:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:39:11 [linviolin-poznan.pl][debug] New queue created #20, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631165951}
+09-09-2021 07:39:11 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 07:46:17 [linviolin-poznan.pl][debug] Deleted queue item #20
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:46:17 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 07:46:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:46:19 [linviolin-poznan.pl][debug] New queue created #21, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631166379}
+09-09-2021 07:46:19 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 07:57:51 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 07:57:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 07:57:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 07:57:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 07:57:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 07:57:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 07:57:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 07:57:51 [linviolin-poznan.pl][debug] Deleted queue item #21
+09-09-2021 07:57:51 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:57:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 07:57:53 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 07:57:53 [linviolin-poznan.pl][debug] New queue created #22, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631167073}
+09-09-2021 07:57:53 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 08:01:51 [linviolin-poznan.pl][debug] Deleted queue item #22
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:01:51 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 08:01:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:01:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 08:01:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:01:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 08:01:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:01:52 [linviolin-poznan.pl][debug] New queue created #23, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631167312}
+09-09-2021 08:01:52 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 08:09:50 [linviolin-poznan.pl][debug] Deleted queue item #23
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:09:50 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 08:09:51 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:09:51 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 08:09:51 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:09:51 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 08:09:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:09:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 08:09:52 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:09:52 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 08:09:53 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:09:53 [linviolin-poznan.pl][debug] New queue created #24, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631167793}
+09-09-2021 08:09:53 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 08:18:41 [linviolin-poznan.pl][debug] Deleted queue item #24
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:18:41 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 08:18:42 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:18:42 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 08:18:42 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:18:42 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 08:18:42 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 08:18:42 [linviolin-poznan.pl][debug] New queue created #25, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631168322}
+09-09-2021 08:18:42 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 62
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01.jpg.
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg.
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg.
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg.
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg.
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] Restored file: /home/linvioo/www/wp-content/uploads/wio_backup/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg.
+09-09-2021 10:35:45 [linviolin-poznan.pl][debug] Deleted queue item #25
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01.jpg) to a remote server (server_1).
+09-09-2021 10:35:45 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 10:35:48 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-150x150.jpg) to a remote server (server_1).
+09-09-2021 10:35:55 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 10:35:55 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-300x225.jpg) to a remote server (server_1).
+09-09-2021 10:35:55 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 10:35:55 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-768x576.jpg) to a remote server (server_1).
+09-09-2021 10:35:55 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 10:35:55 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1024x768.jpg) to a remote server (server_1).
+09-09-2021 10:35:56 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 10:35:56 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 10:35:56 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 10:35:56 [linviolin-poznan.pl][debug] New queue created #26, attributes values: {"server_id":null,"object_id":62,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":258430,"final_size":202637,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":90671,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631176556}
+09-09-2021 10:35:56 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 62
+-------------------------------
+09-09-2021 11:14:58 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 170
+09-09-2021 11:14:58 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_omnie.png) to a remote server (server_1).
+09-09-2021 11:14:59 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:14:59 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_omnie-150x150.png) to a remote server (server_1).
+09-09-2021 11:14:59 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:14:59 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_omnie-300x300.png) to a remote server (server_1).
+09-09-2021 11:14:59 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:14:59 [linviolin-poznan.pl][debug] New queue created #27, attributes values: {"server_id":null,"object_id":170,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":504146,"final_size":414614,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":404935,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631178899}
+09-09-2021 11:14:59 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 170
+-------------------------------
+09-09-2021 11:24:22 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 178
+09-09-2021 11:24:22 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_oferta.png) to a remote server (server_1).
+09-09-2021 11:24:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:24:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_oferta-150x150.png) to a remote server (server_1).
+09-09-2021 11:24:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:24:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_oferta-300x300.png) to a remote server (server_1).
+09-09-2021 11:24:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:24:24 [linviolin-poznan.pl][debug] New queue created #28, attributes values: {"server_id":null,"object_id":178,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":792248,"final_size":268571,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":596131,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631179464}
+09-09-2021 11:24:24 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 178
+-------------------------------
+09-09-2021 11:27:25 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 179
+09-09-2021 11:27:25 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_show.png) to a remote server (server_1).
+09-09-2021 11:27:26 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:27:26 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_show-150x150.png) to a remote server (server_1).
+09-09-2021 11:27:26 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:27:27 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_show-300x300.png) to a remote server (server_1).
+09-09-2021 11:27:28 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:27:29 [linviolin-poznan.pl][debug] New queue created #29, attributes values: {"server_id":null,"object_id":179,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":710472,"final_size":226399,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":517970,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631179649}
+09-09-2021 11:27:29 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 179
+-------------------------------
+09-09-2021 11:28:23 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 180
+09-09-2021 11:28:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_kontakt.png) to a remote server (server_1).
+09-09-2021 11:28:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:28:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_kontakt-150x150.png) to a remote server (server_1).
+09-09-2021 11:28:24 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:28:24 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/kola_kontakt-300x300.png) to a remote server (server_1).
+09-09-2021 11:28:24 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 11:28:24 [linviolin-poznan.pl][debug] New queue created #30, attributes values: {"server_id":null,"object_id":180,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":554377,"final_size":201349,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":400117,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631179704}
+09-09-2021 11:28:24 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 180
+-------------------------------
+09-09-2021 12:35:47 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 198
+09-09-2021 12:35:47 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/LinViolin_01.png) to a remote server (server_1).
+09-09-2021 12:35:47 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 12:35:47 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/LinViolin_01-150x150.png) to a remote server (server_1).
+09-09-2021 12:35:47 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 12:35:47 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/LinViolin_01-300x111.png) to a remote server (server_1).
+09-09-2021 12:35:48 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 12:35:48 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/LinViolin_01-768x285.png) to a remote server (server_1).
+09-09-2021 12:35:51 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 12:35:51 [linviolin-poznan.pl][debug] New queue created #31, attributes values: {"server_id":null,"object_id":198,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":955999,"final_size":433398,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":451029,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631183751}
+09-09-2021 12:35:51 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 198
+-------------------------------
+09-09-2021 13:26:06 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 206
+09-09-2021 13:26:06 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-1.jpg) to a remote server (server_1).
+09-09-2021 13:26:08 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:26:08 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-1-150x150.jpg) to a remote server (server_1).
+09-09-2021 13:26:08 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:26:08 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-1-300x225.jpg) to a remote server (server_1).
+09-09-2021 13:26:08 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:26:08 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-1-768x576.jpg) to a remote server (server_1).
+09-09-2021 13:26:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:26:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-1-1024x768.jpg) to a remote server (server_1).
+09-09-2021 13:26:12 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:26:12 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Logotyp-LinViolin_01-1-1536x1152.jpg) to a remote server (server_1).
+09-09-2021 13:26:12 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:26:12 [linviolin-poznan.pl][debug] New queue created #32, attributes values: {"server_id":null,"object_id":206,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":451720,"final_size":201133,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":284522,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631186772}
+09-09-2021 13:26:12 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 206
+-------------------------------
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 208
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1-1-e1631187042923.jpg) to a remote server (server_1).
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1-1-e1631187042923-150x150.jpg) to a remote server (server_1).
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1-1-e1631187042923-300x85.jpg) to a remote server (server_1).
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1-1-e1631187042923-768x219.jpg) to a remote server (server_1).
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:34:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1-1-e1631187042923-1024x292.jpg) to a remote server (server_1).
+09-09-2021 13:34:24 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:34:24 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/cropped-Logotyp-LinViolin_01-1-1-e1631187042923-1536x437.jpg) to a remote server (server_1).
+09-09-2021 13:34:24 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+09-09-2021 13:34:24 [linviolin-poznan.pl][debug] New queue created #33, attributes values: {"server_id":null,"object_id":208,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":227188,"final_size":196994,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":64924,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631187264}
+09-09-2021 13:34:24 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 208
+-------------------------------
+13-09-2021 14:22:11 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 271
+13-09-2021 14:22:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/wh1.jpg) to a remote server (server_1).
+13-09-2021 14:22:12 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:22:12 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/wh1-150x150.jpg) to a remote server (server_1).
+13-09-2021 14:22:13 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:22:13 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/wh1-300x203.jpg) to a remote server (server_1).
+13-09-2021 14:22:13 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:22:13 [linviolin-poznan.pl][debug] New queue created #34, attributes values: {"server_id":null,"object_id":271,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":38898,"final_size":11811,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":34295,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631535733}
+13-09-2021 14:22:13 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 271
+-------------------------------
+13-09-2021 14:23:40 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 273
+13-09-2021 14:23:41 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1519.jpg) to a remote server (server_1).
+13-09-2021 14:23:43 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:23:43 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1519-150x150.jpg) to a remote server (server_1).
+13-09-2021 14:23:43 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:23:43 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1519-300x199.jpg) to a remote server (server_1).
+13-09-2021 14:23:43 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:23:43 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1519-768x509.jpg) to a remote server (server_1).
+13-09-2021 14:23:43 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:23:43 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1519-1024x678.jpg) to a remote server (server_1).
+13-09-2021 14:23:44 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:23:44 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1519-1536x1017.jpg) to a remote server (server_1).
+13-09-2021 14:23:44 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:23:44 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1519-2048x1356.jpg) to a remote server (server_1).
+13-09-2021 14:23:44 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:23:45 [linviolin-poznan.pl][debug] New queue created #35, attributes values: {"server_id":null,"object_id":273,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":5960763,"final_size":938554,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":5007643,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631535824}
+13-09-2021 14:23:45 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 273
+-------------------------------
+13-09-2021 14:29:25 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 280
+13-09-2021 14:29:25 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/qr2.jpg) to a remote server (server_1).
+13-09-2021 14:29:25 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:29:25 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/qr2-150x150.jpg) to a remote server (server_1).
+13-09-2021 14:29:25 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:29:26 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/qr2-300x203.jpg) to a remote server (server_1).
+13-09-2021 14:29:27 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:29:27 [linviolin-poznan.pl][debug] New queue created #36, attributes values: {"server_id":null,"object_id":280,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":51122,"final_size":16821,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":44781,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631536167}
+13-09-2021 14:29:27 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 280
+-------------------------------
+13-09-2021 14:31:18 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 282
+13-09-2021 14:31:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/akademia-muzyczna.png) to a remote server (server_1).
+13-09-2021 14:31:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:31:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/akademia-muzyczna-150x150.png) to a remote server (server_1).
+13-09-2021 14:31:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:31:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/akademia-muzyczna-300x200.png) to a remote server (server_1).
+13-09-2021 14:31:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:31:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/akademia-muzyczna-768x511.png) to a remote server (server_1).
+13-09-2021 14:31:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:31:20 [linviolin-poznan.pl][debug] New queue created #37, attributes values: {"server_id":null,"object_id":282,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1413259,"final_size":534460,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":3,\"original_main_size\":693411,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631536280}
+13-09-2021 14:31:20 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 282
+-------------------------------
+13-09-2021 14:51:01 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 316
+13-09-2021 14:51:01 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_20201102_100446_2.jpg) to a remote server (server_1).
+13-09-2021 14:51:02 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:51:02 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_20201102_100446_2-150x150.jpg) to a remote server (server_1).
+13-09-2021 14:51:02 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:51:02 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_20201102_100446_2-300x225.jpg) to a remote server (server_1).
+13-09-2021 14:51:02 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:51:02 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_20201102_100446_2-768x576.jpg) to a remote server (server_1).
+13-09-2021 14:51:02 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:51:02 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_20201102_100446_2-1024x768.jpg) to a remote server (server_1).
+13-09-2021 14:51:03 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:51:03 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_20201102_100446_2-1536x1152.jpg) to a remote server (server_1).
+13-09-2021 14:51:03 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:51:03 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_20201102_100446_2-2048x1536.jpg) to a remote server (server_1).
+13-09-2021 14:51:04 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:51:05 [linviolin-poznan.pl][debug] New queue created #38, attributes values: {"server_id":null,"object_id":316,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":2249532,"final_size":961862,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":1471826,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631537465}
+13-09-2021 14:51:05 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 316
+-------------------------------
+13-09-2021 14:55:07 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 320
+13-09-2021 14:55:07 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/pexels-ellie-burgin-3345860.jpg) to a remote server (server_1).
+13-09-2021 14:55:08 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:55:08 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/pexels-ellie-burgin-3345860-150x150.jpg) to a remote server (server_1).
+13-09-2021 14:55:08 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:55:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/pexels-ellie-burgin-3345860-267x300.jpg) to a remote server (server_1).
+13-09-2021 14:55:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:55:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/pexels-ellie-burgin-3345860-768x863.jpg) to a remote server (server_1).
+13-09-2021 14:55:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:55:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/pexels-ellie-burgin-3345860-912x1024.jpg) to a remote server (server_1).
+13-09-2021 14:55:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:55:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/pexels-ellie-burgin-3345860-1368x1536.jpg) to a remote server (server_1).
+13-09-2021 14:55:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:55:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/pexels-ellie-burgin-3345860-1823x2048.jpg) to a remote server (server_1).
+13-09-2021 14:55:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 14:55:11 [linviolin-poznan.pl][debug] New queue created #39, attributes values: {"server_id":null,"object_id":320,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1510707,"final_size":659222,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":938949,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631537711}
+13-09-2021 14:55:12 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 320
+-------------------------------
+13-09-2021 17:07:43 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 358
+13-09-2021 17:07:43 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/FB_20151104_22_33_01_Saved_Picture.jpg) to a remote server (server_1).
+13-09-2021 17:07:46 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:07:46 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/FB_20151104_22_33_01_Saved_Picture-150x150.jpg) to a remote server (server_1).
+13-09-2021 17:07:46 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:07:46 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/FB_20151104_22_33_01_Saved_Picture-200x300.jpg) to a remote server (server_1).
+13-09-2021 17:07:47 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:07:47 [linviolin-poznan.pl][debug] New queue created #40, attributes values: {"server_id":null,"object_id":358,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":94197,"final_size":84202,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":53756,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631545667}
+13-09-2021 17:07:47 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 358
+-------------------------------
+13-09-2021 17:10:11 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 362
+13-09-2021 17:10:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_0102.jpg) to a remote server (server_1).
+13-09-2021 17:10:12 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:10:14 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_0102-150x150.jpg) to a remote server (server_1).
+13-09-2021 17:10:14 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:10:14 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_0102-300x200.jpg) to a remote server (server_1).
+13-09-2021 17:10:14 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:10:14 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_0102-768x512.jpg) to a remote server (server_1).
+13-09-2021 17:10:14 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:10:14 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_0102-1024x683.jpg) to a remote server (server_1).
+13-09-2021 17:10:15 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:10:15 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_0102-1536x1024.jpg) to a remote server (server_1).
+13-09-2021 17:10:15 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:10:15 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/IMG_0102-2048x1365.jpg) to a remote server (server_1).
+13-09-2021 17:10:15 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:10:16 [linviolin-poznan.pl][debug] New queue created #41, attributes values: {"server_id":null,"object_id":362,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":3082613,"final_size":1155844,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":2142300,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631545816}
+13-09-2021 17:10:16 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 362
+-------------------------------
+13-09-2021 17:18:17 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 384
+13-09-2021 17:18:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0287.jpg) to a remote server (server_1).
+13-09-2021 17:18:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:18:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0287-150x150.jpg) to a remote server (server_1).
+13-09-2021 17:18:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:18:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0287-300x200.jpg) to a remote server (server_1).
+13-09-2021 17:18:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:18:20 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0287-768x512.jpg) to a remote server (server_1).
+13-09-2021 17:18:20 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:18:23 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0287-1024x683.jpg) to a remote server (server_1).
+13-09-2021 17:18:23 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:18:24 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0287-1536x1024.jpg) to a remote server (server_1).
+13-09-2021 17:18:25 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:18:25 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0287-2048x1365.jpg) to a remote server (server_1).
+13-09-2021 17:18:25 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:18:25 [linviolin-poznan.pl][debug] New queue created #42, attributes values: {"server_id":null,"object_id":384,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":3302843,"final_size":1477741,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":2102124,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631546305}
+13-09-2021 17:18:25 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 384
+-------------------------------
+13-09-2021 17:20:09 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 391
+13-09-2021 17:20:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Wustrzal.jpg) to a remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Wustrzal-150x150.jpg) to a remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Wustrzal-300x200.jpg) to a remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Wustrzal-768x512.jpg) to a remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Wustrzal-1024x683.jpg) to a remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:20:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Wustrzal-1536x1025.jpg) to a remote server (server_1).
+13-09-2021 17:20:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:20:14 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/Wustrzal-2048x1366.jpg) to a remote server (server_1).
+13-09-2021 17:20:14 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:20:14 [linviolin-poznan.pl][debug] New queue created #43, attributes values: {"server_id":null,"object_id":391,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1736667,"final_size":1150972,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":788835,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631546414}
+13-09-2021 17:20:14 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 391
+-------------------------------
+13-09-2021 17:30:53 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 423
+13-09-2021 17:30:53 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0397.jpg) to a remote server (server_1).
+13-09-2021 17:30:53 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:30:53 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0397-150x150.jpg) to a remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0397-300x200.jpg) to a remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0397-768x512.jpg) to a remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0397-1024x683.jpg) to a remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0397-1536x1024.jpg) to a remote server (server_1).
+13-09-2021 17:30:54 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:30:55 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0397-2048x1365.jpg) to a remote server (server_1).
+13-09-2021 17:30:55 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:30:55 [linviolin-poznan.pl][debug] New queue created #44, attributes values: {"server_id":null,"object_id":423,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":2688307,"final_size":1185277,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":1715109,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631547055}
+13-09-2021 17:30:55 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 423
+-------------------------------
+13-09-2021 17:35:09 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 430
+13-09-2021 17:35:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/635925912204550328.jpg) to a remote server (server_1).
+13-09-2021 17:35:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:35:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/635925912204550328-150x150.jpg) to a remote server (server_1).
+13-09-2021 17:35:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:35:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/635925912204550328-300x200.jpg) to a remote server (server_1).
+13-09-2021 17:35:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:35:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/635925912204550328-768x512.jpg) to a remote server (server_1).
+13-09-2021 17:35:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:35:11 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/635925912204550328-1024x683.jpg) to a remote server (server_1).
+13-09-2021 17:35:12 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:35:12 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/635925912204550328-1536x1024.jpg) to a remote server (server_1).
+13-09-2021 17:35:12 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:35:13 [linviolin-poznan.pl][debug] New queue created #45, attributes values: {"server_id":null,"object_id":430,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":1522434,"final_size":1258130,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":697364,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631547313}
+13-09-2021 17:35:13 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 430
+-------------------------------
+13-09-2021 17:40:56 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 443
+13-09-2021 17:40:57 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0892.jpg) to a remote server (server_1).
+13-09-2021 17:40:57 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:40:58 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0892-150x150.jpg) to a remote server (server_1).
+13-09-2021 17:40:59 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:40:59 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0892-300x200.jpg) to a remote server (server_1).
+13-09-2021 17:41:02 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:41:02 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0892-768x512.jpg) to a remote server (server_1).
+13-09-2021 17:41:02 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:41:02 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0892-1024x683.jpg) to a remote server (server_1).
+13-09-2021 17:41:02 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:41:03 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0892-1536x1024.jpg) to a remote server (server_1).
+13-09-2021 17:41:03 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:41:03 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/MG_0892-2048x1365.jpg) to a remote server (server_1).
+13-09-2021 17:41:03 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+13-09-2021 17:41:03 [linviolin-poznan.pl][debug] New queue created #46, attributes values: {"server_id":null,"object_id":443,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":2804842,"final_size":1375268,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":1672548,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631547663}
+13-09-2021 17:41:03 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 443
+-------------------------------
+14-09-2021 06:06:16 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 555
+14-09-2021 06:06:17 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/20210807_130950.jpg) to a remote server (server_1).
+14-09-2021 06:06:17 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:06:17 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/20210807_130950-150x150.jpg) to a remote server (server_1).
+14-09-2021 06:06:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:06:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/20210807_130950-300x135.jpg) to a remote server (server_1).
+14-09-2021 06:06:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:06:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/20210807_130950-768x346.jpg) to a remote server (server_1).
+14-09-2021 06:06:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:06:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/20210807_130950-1024x461.jpg) to a remote server (server_1).
+14-09-2021 06:06:18 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:06:18 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/20210807_130950-1536x691.jpg) to a remote server (server_1).
+14-09-2021 06:06:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:06:19 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/20210807_130950-2048x922.jpg) to a remote server (server_1).
+14-09-2021 06:06:19 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:06:19 [linviolin-poznan.pl][debug] New queue created #47, attributes values: {"server_id":null,"object_id":555,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":6424212,"final_size":2277780,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":4500688,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631592379}
+14-09-2021 06:06:19 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 555
+-------------------------------
+14-09-2021 06:18:08 [linviolin-poznan.pl][info] START auto optimize cron job. Attachment: 560
+14-09-2021 06:18:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1905.jpg) to a remote server (server_1).
+14-09-2021 06:18:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:18:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1905-150x150.jpg) to a remote server (server_1).
+14-09-2021 06:18:09 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:18:09 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1905-300x201.jpg) to a remote server (server_1).
+14-09-2021 06:18:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:18:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1905-768x514.jpg) to a remote server (server_1).
+14-09-2021 06:18:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:18:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1905-1024x685.jpg) to a remote server (server_1).
+14-09-2021 06:18:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:18:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1905-1536x1028.jpg) to a remote server (server_1).
+14-09-2021 06:18:10 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:18:10 [linviolin-poznan.pl][info] Preparing to upload a file (/home/linvioo/www/wp-content/uploads/2021/09/DSC_1905-2048x1371.jpg) to a remote server (server_1).
+14-09-2021 06:18:11 [linviolin-poznan.pl][info] File successfully uploaded to remote server (server_1).
+14-09-2021 06:18:11 [linviolin-poznan.pl][debug] New queue created #48, attributes values: {"server_id":null,"object_id":560,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":4252770,"final_size":1346200,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":6,\"original_main_size\":3032652,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1631593091}
+14-09-2021 06:18:11 [linviolin-poznan.pl][info] END auto optimize cron job. Attachment: 560
+-------------------------------

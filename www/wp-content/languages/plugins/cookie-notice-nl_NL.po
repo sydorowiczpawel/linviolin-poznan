@@ -1,0 +1,1036 @@
+# Translation of Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-13 13:48:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release)\n"
+
+#: includes/welcome.php:660
+msgid "Sign in to your existing Cookie Compliance&trade; account and select your preferred plan."
+msgstr "Log in op je bestaande Cookie Compliance&trade; account en selecteer je voorkeursplan."
+
+#: includes/welcome.php:631 includes/welcome.php:733
+msgid "Submit"
+msgstr "Verzend"
+
+#: includes/welcome.php:606 includes/welcome.php:708
+msgid "Confirm"
+msgstr "Bevestigen"
+
+#: includes/welcome.php:602 includes/welcome.php:704
+msgid "<b>Professional</b> Yearly"
+msgstr "<b>Professioneel</b> Jaarlijks"
+
+#: includes/welcome.php:601 includes/welcome.php:703
+msgid "<b>Professional</b> Monthly"
+msgstr "<b>Professioneel</b> maandelijks"
+
+#: includes/welcome.php:550
+msgid "Create a Cookie Compliance&trade; account and select your preferred plan."
+msgstr "Maak een Cookie Compliance&trade; account aan en selecteer je voorkeursplan."
+
+#: includes/welcome.php:530
+msgid "Apply Setup"
+msgstr "Instelling toepassen"
+
+#: includes/welcome.php:497 includes/welcome.php:525
+msgid "available in Cookie Compliance&trade; only"
+msgstr "beschikbaar in Cookie Compliance&trade; alleen"
+
+#: includes/welcome.php:494
+msgid "Automatically block 3rd party scripts before user consent."
+msgstr "Automatisch 3rd party scripts blokkeren voor instemming van de gebruiker."
+
+#: includes/welcome.php:492
+msgid "Enable Autoblocking (complies with GDPR Art.7)"
+msgstr "Zet Autoblocking aan (voldoet aan GDPR Art.7)"
+
+#: includes/welcome.php:488
+msgid "Give your visitors the ability to customize their consent based on cookie purpose categories."
+msgstr "Geef je bezoekers de mogelijkheid om hun instemming aan te passen op basis van de doelcategorieën van cookies."
+
+#: includes/welcome.php:478
+msgid "Select the type of of services your website is using"
+msgstr "Selecteer het type van diensten dat je site gebruikt"
+
+#: includes/welcome.php:446
+msgid "Configure your Cookie Notice & Compliance design and compliance features through the options below. Click Apply Setup to save the configuration and go to selecting your preferred cookie solution."
+msgstr "Configureer het ontwerp van je Cookie Notice & Compliance en de functies voor de naleving ervan via de onderstaande opties. Klik op Apply Setup om de configuratie op te slaan en verder te gaan met het kiezen van je favoriete cookie oplossing."
+
+#: includes/welcome.php:445
+msgid "Live Setup"
+msgstr "Live instelling"
+
+#: includes/welcome.php:429
+msgid "Proof-of-consent stored in secure audit format."
+msgstr "Bewijs van instemming opgeslagen in beveiligd auditformat."
+
+#: includes/welcome.php:428
+msgid "Separate consent requested per purpose of use."
+msgstr "Afzonderlijke instemming aangevraagd per gebruiksdoel."
+
+#: includes/welcome.php:427
+msgid "Non-essential cookies blocked until consent is registered."
+msgstr "Niet-essentiële cookies geblokkeerd tot instemming geregistreerd is."
+
+#: includes/welcome.php:426
+msgid "Notifies visitors that site uses cookies."
+msgstr "Informeert bezoekers dat de site cookies gebruikt."
+
+#: includes/welcome.php:423
+msgid "Checking..."
+msgstr "Controleren..."
+
+#: includes/welcome.php:417
+msgid "This is a Compliance Check to determine your site’s compliance with updated data processing and consent rules under GDPR, CCPA and other international data privacy laws."
+msgstr "Dit is een nalevingscontrole om na te gaan of je site voldoet aan de geüpdatete regels voor gegevensverwerking en instemming volgens GDPR, CCPA en andere internationale wetten op de privacy van gegevens."
+
+#: includes/welcome.php:416
+msgid "Compliance check"
+msgstr "Nalevingscontrole"
+
+#: includes/welcome.php:386
+msgid "You are now promoting privacy with Hu-manity.co"
+msgstr "Je bevordert nu privacy met Hu-manity.co"
+
+#: includes/welcome.php:385
+msgid "Congratulations"
+msgstr "Gefeliciteerd"
+
+#: includes/welcome.php:369
+msgid "I don’t want to create an account now"
+msgstr "Ik wil nu geen account meer aanmaken"
+
+#: includes/welcome.php:360
+msgid "<b>Premium</b> Support"
+msgstr "<b>Premium</b> ondersteuning"
+
+#: includes/welcome.php:352
+msgid "Best Value"
+msgstr "Beste waarde"
+
+#: includes/welcome.php:351
+msgid "year"
+msgstr "jaar"
+
+#: includes/welcome.php:350
+msgid "Professional Yearly"
+msgstr "Professioneel Jaarlijks"
+
+#: includes/welcome.php:339
+msgid "<b>Regular</b> Support"
+msgstr "<b>Normale</b> ondersteuning"
+
+#: includes/welcome.php:338 includes/welcome.php:359
+msgid "<b>Unlimited</b> languages"
+msgstr "<b>Onbeperkt aantal</b> talen"
+
+#: includes/welcome.php:337 includes/welcome.php:358
+msgid "<b>Lifetime</b> consent storage"
+msgstr "<b>Levenslange</b> opslag van instemming"
+
+#: includes/welcome.php:336 includes/welcome.php:357
+msgid "<b>Unlimited</b> visits"
+msgstr "<b>Onbeperkt</b> aantal bezoeken"
+
+#: includes/welcome.php:331
+msgid "month"
+msgstr "maand"
+
+#: includes/welcome.php:330
+msgid "Professional Monthly"
+msgstr "Professioneel maandelijks"
+
+#: includes/welcome.php:322 includes/welcome.php:342 includes/welcome.php:363
+#: includes/welcome.php:594 includes/welcome.php:696
+msgid "Select Plan"
+msgstr "Selecteer abonnement"
+
+#: includes/welcome.php:319
+msgid "<b>Basic</b> Support"
+msgstr "<b>Basis</b> ondersteuning"
+
+#: includes/welcome.php:318
+msgid "<b>1 additional</b> language"
+msgstr "<b>1 extra</b> taal"
+
+#: includes/welcome.php:317
+msgid "<b>30 days</b> consent storage"
+msgstr "<b>30 dagen</b> opslag van instemming"
+
+#: includes/welcome.php:316
+msgid "<b>10,000</b> visits"
+msgstr "<b>10.000</b> bezoeken"
+
+#: includes/welcome.php:315 includes/welcome.php:335 includes/welcome.php:356
+msgid "Consent Analytics Dashboard"
+msgstr "Consent Analytics dashboard"
+
+#: includes/welcome.php:314 includes/welcome.php:334 includes/welcome.php:355
+msgid "GDPR, CCPA, ePrivacy, PECR compliance"
+msgstr "GDPR, CCPA, ePrivacy, PECR naleving"
+
+#: includes/welcome.php:311
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/welcome.php:310 includes/welcome.php:600 includes/welcome.php:702
+msgid "Basic"
+msgstr "Basis"
+
+#: includes/welcome.php:260
+msgid "Take a proactive approach to data protection and consent laws by signing up for Cookie Compliance account. Then select a limited Basic Plan for free or get one of the Professional Plans for unlimited visits, consent storage, languages and customizations."
+msgstr "Neem een pro-actieve aanpak van gegevensbescherming en toestemmingswetten door je aan te melden voor een Cookie Compliance account. Kies dan gratis een beperkt Basis Plan of neem een van de Professionele abonnementen voor onbeperkte bezoeken, instemmingsopslag, talen en aanpassingsmogelijkheden."
+
+#: includes/welcome.php:191
+msgid "Sign up to Cookie Compliance"
+msgstr "Meld je aan voor Cookie Compliance"
+
+#: includes/welcome.php:180
+msgid "Cookie Notice includes <b>seamless integration</b> with Cookie Compliance to help your site comply with the latest updates to existing consent laws and provide a beautiful, multi-level experience to engage visitors in data privacy decisions."
+msgstr "Cookie Notice bevat <b>naadloze integratie</b> met Cookie Compliance om je site te helpen voldoen aan de nieuwste updates van bestaande toestemmingswetten en een mooie, meerlagige ervaring te bieden om bezoekers te betrekken bij beslissingen over gegevensbescherming."
+
+#: includes/welcome.php:179
+msgid "It is the first solution to offer <b>intentional consent</b>, a new consent framework that incorporates the latest guidelines from over 100+ countries, and emerging standards from leading international organizations like the IEEE."
+msgstr "Het is de eerste oplossing die <b>opzettelijke toestemming</b> biedt, een nieuw toestemmingskader waarin de nieuwste richtlijnen uit meer dan 100+ landen zijn verwerkt, en opkomende normen van toonaangevende internationale organisaties zoals de IEEE."
+
+#: includes/welcome.php:173
+msgid "Cookie Compliance is a free web application that enables websites to take a proactive approach to data protection and consent laws."
+msgstr "Cookie Compliance is een gratis webapplicatie waarmee sites pro-actief de wetten op gegevensbescherming en toestemming kunnen naleven."
+
+#: includes/welcome.php:54
+msgid "<em>Compliance Passed!</em>Congratulations. Your website meets minimum viable compliance."
+msgstr "<em>Compliance geslaagd!</em>Gefeliciteerd. Je site voldoet aan de minimum levensvatbaarheidseisen."
+
+#: includes/welcome.php:53
+msgid "<em>Compliance Failed!</em>Your website does not achieve minimum viable compliance. <b><a href=\"#\" class=\"cn-sign-up\">Sign up to Cookie Compliance</a></b> to bring your site into compliance with the latest data privacy rules and regulations."
+msgstr "<em>Naleving mislukt!</em>Je site voldoet niet aan de minimaal haalbare eisen <b><a href=\"#\" class=\"cn-sign-up\">Meld je aan voor Cookie Compliance</a></b> om je site in overeenstemming te brengen met de nieuwste regels en voorschriften voor gegevensprivacy."
+
+#: includes/welcome.php:51
+msgid "Failed"
+msgstr "Mislukt"
+
+#: includes/welcome.php:50
+msgid "Passed"
+msgstr "Geslaagd"
+
+#: includes/settings.php:584
+msgid "Sign up to Cookie Compliance&trade; and add GDPR, CCPA and other international data privacy laws compliance features."
+msgstr "Meld je aan bij Cookie Compliance&trade; en voeg GDPR, CCPA en andere internationale gegevens privacy wetten nalevingsfuncties toe."
+
+#: includes/settings.php:583
+msgid "Add Compliance features"
+msgstr "Functies voor naleving toevoegen"
+
+#: includes/settings.php:568
+msgid "Log in & configure"
+msgstr "Log in & configureer"
+
+#: includes/settings.php:452
+msgid "Free Upgrade"
+msgstr "Gratis upgrade"
+
+#: includes/settings.php:449
+msgid "A free web application to help you deliver better consent experiences and comply with GDPR, CCPA and other data privacy laws more effectively."
+msgstr "Een gratis webapplicatie om je te helpen betere instemmingservaringen te leveren en de GDPR, CCPA en andere privacywetten beter na te leven."
+
+#: includes/settings.php:131
+msgid "Use the toggles to customize your cookie consent. Learn more about the purpose of each cookie and the companies behind them through the information and links below."
+msgstr "Gebruik de toggles om je cookie instemming aan te passen. Leer meer over het doel van elk cookie en de bedrijven erachter via de informatie en links hieronder."
+
+#: includes/settings.php:130
+msgid "Cookie Preferences"
+msgstr "Cookie voorkeuren"
+
+#: includes/settings.php:129
+msgid "California residents can also exercise their personal information rights through the Do Not Sell My Personal Information page."
+msgstr "Inwoners van Californië kunnen hun rechten op persoonlijke informatie ook uitoefenen via de pagina Niet verkopen van mijn persoonlijke informatie."
+
+#: includes/settings.php:128
+msgid "You can learn more about how we use cookies by visiting our privacy policy page."
+msgstr "Je kunt meer te weten komen over hoe we cookies gebruiken door onze privacy policy pagina te bezoeken."
+
+#: includes/settings.php:126
+msgid "We're Promoting Privacy"
+msgstr "We bevorderen privacy"
+
+#: includes/settings.php:125
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+#: includes/settings.php:124
+msgid "Do Not Sell"
+msgstr "Niet verkopen"
+
+#: includes/settings.php:121
+msgid "Reject"
+msgstr "Afwijzen"
+
+#: includes/settings.php:120
+msgid "Accept"
+msgstr "Accepteren"
+
+#: includes/settings.php:1159
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: includes/settings.php:622
+msgid "In case you're experiencing issues with your site disable that feature temporarily."
+msgstr "Als je problemen ondervindt met je site, schakel je die functie tijdelijk uit."
+
+#: includes/settings.php:621
+msgid "Enable to automatically block 3rd party scripts before user consent."
+msgstr "Schakel dit in om scripts van derden automatisch te blokkeren voordat de gebruiker toestemming geeft."
+
+#: includes/settings.php:550 includes/settings.php:565
+#: includes/settings.php:580 includes/welcome.php:429
+msgid "Proof-of-Consent"
+msgstr "Bewijs van toestemming"
+
+#: includes/settings.php:549 includes/settings.php:564
+#: includes/settings.php:579 includes/welcome.php:428
+msgid "Cookie Categories"
+msgstr "Cookie categorieën"
+
+#: includes/settings.php:547 includes/settings.php:562
+#: includes/settings.php:577
+msgid "Notice"
+msgstr "Kennisgeving"
+
+#: includes/settings.php:520
+msgid "Notice Design"
+msgstr "Kennisgeving ontwerp"
+
+#: includes/settings.php:504
+msgid "Notice Settings"
+msgstr "Kennisgeving instellingen"
+
+#: includes/settings.php:492 includes/settings.php:548
+#: includes/settings.php:563 includes/settings.php:578 includes/welcome.php:427
+msgid "Autoblocking"
+msgstr "Autoblokkering"
+
+#: includes/settings.php:486 includes/settings.php:499
+msgid "Compliance Settings"
+msgstr "Nalevingsinstellingen"
+
+#: includes/settings.php:424
+msgid "Cookies"
+msgstr "Cookies"
+
+#: includes/welcome.php:689
+msgid "Sign up"
+msgstr "Aanmelden"
+
+#: includes/welcome.php:689
+msgid "Don't have an account yet?"
+msgstr "Nog geen account?"
+
+#: includes/welcome.php:664
+msgid "Account Login"
+msgstr "Account login"
+
+#: includes/welcome.php:587
+msgid "Already have an account?"
+msgstr "Heb je al een account?"
+
+#: includes/welcome.php:569
+msgid "I have read and agree to the <a href=\"%s\" target=\"_blank\">Terms of Service"
+msgstr "Ik heb de Servicevoorwaarden van <a href=\"%s\" target=\"_blank\">gelezen en ga hiermee akkoord"
+
+#: includes/welcome.php:554
+msgid "Create Account"
+msgstr "Maak account"
+
+#: includes/settings.php:635
+msgid "Click the Purge Cache button to refresh the app configuration."
+msgstr "Klik op de knop Cache wissen om de app configuratie te vernieuwen."
+
+#: includes/settings.php:633
+msgid "Purge Cache"
+msgstr "Cache opschonen"
+
+#: includes/settings.php:611
+msgid "Enter your Cookie Compliance&trade; application secret key."
+msgstr "Voer je Cookie Compliance&trade in; geheime sleutel van de toepassing."
+
+#: includes/settings.php:599
+msgid "Enter your Cookie Compliance&trade; application ID."
+msgstr "Voer je Cookie Compliance&trade in; applicatie ID."
+
+#: includes/settings.php:578 includes/settings.php:579
+#: includes/settings.php:580
+msgid "Inactive"
+msgstr "Inactief"
+
+#: includes/settings.php:569
+msgid "Log into the Cookie Compliance&trade; web application and complete the setup process."
+msgstr "Log in op de Cookie Compliance&trade; webapplicatie en rond het installatieproces af."
+
+#: includes/settings.php:563 includes/settings.php:564
+#: includes/settings.php:565
+msgid "Pending"
+msgstr "In afwachting"
+
+#: includes/settings.php:554
+msgid "Log into the Cookie Compliance&trade; web application and configure your Privacy Experience."
+msgstr "Log in op de Cookie Compliance&trade; webapplicatie en configureer je Privacy ervaring."
+
+#: includes/settings.php:553
+msgid "Log in & Configure"
+msgstr "Log in & Configureren"
+
+#: includes/settings.php:547 includes/settings.php:548
+#: includes/settings.php:549 includes/settings.php:550
+#: includes/settings.php:562 includes/settings.php:577
+msgid "Active"
+msgstr "Actief"
+
+#: includes/settings.php:493
+msgid "Cache"
+msgstr "Cache"
+
+#: includes/settings.php:491
+msgid "Miscellaneous Settings"
+msgstr "Diverse instellingen"
+
+#: includes/settings.php:489 includes/settings.php:502
+msgid "App Key"
+msgstr "App sleutel"
+
+#: includes/settings.php:488 includes/settings.php:501
+msgid "App ID"
+msgstr "App ID"
+
+#: includes/settings.php:487 includes/settings.php:500
+msgid "Compliance status"
+msgstr "Nalevingsstatus"
+
+#: includes/settings.php:444
+msgid "Promote the privacy of your website visitors without affecting how you do your business."
+msgstr "Promoot de privacy van je sitebezoekers zonder dat dit invloed hebt op hoe je zaken doet."
+
+#: includes/settings.php:435
+msgid "Cookie Notice & Compliance for GDPR/CCPA"
+msgstr "Cookie kennisgeving & Naleving van GDPR/CCPA"
+
+#: includes/settings.php:116
+msgid "You can choose whether or not you want to consent to our use of cookies through the options below. You can customise the use of cookies, and change your settings at any time."
+msgstr "Je kunt via de onderstaande opties kiezen of je wel of niet akkoord wil gaan met ons gebruik van cookies. Je kunt het gebruik van cookies aanpassen en je instellingen op elk moment wijzigen."
+
+#: includes/settings.php:115
+msgid "You can choose whether or not you want to consent to our use of cookies through the options below."
+msgstr "Je kunt via de onderstaande opties kiezen of je wel of niet akkoord wil gaan met ons gebruik van cookies."
+
+#: includes/settings.php:112
+msgid "Cookies are small files that are stored on your browser. We use cookies and similar technologies to ensure our website works properly, personalize your browsing experience, analyze how you use our website, and deliver relevant ads to you. For these reasons, we may share your site usage data with our social media, advertising and analytics partners."
+msgstr "Cookies zijn kleine bestanden die in je browser worden opgeslagen. We gebruiken cookies en vergelijkbare technologieën om ervoor te zorgen dat onze site correct werkt, om je browse-ervaring te personaliseren, te analyseren hoe je onze site gebruikt en om je relevante advertenties te laten zien. Om deze redenen kunnen we de gebruiksgegevens van je site delen met onze sociale media-, advertentie- en analysepartners."
+
+#: includes/settings.php:111
+msgid "Cookies are small files that are stored on your browser. We use cookies and similar technologies to ensure our website works properly, personalize your browsing experience, and analyze how you use our website. For these reasons, we may share your site usage data with our analytics partners."
+msgstr "Cookies zijn kleine bestanden die in je browser worden opgeslagen. We gebruiken cookies en vergelijkbare technologieën om ervoor te zorgen dat onze site correct werkt, je browse-ervaring te personaliseren en te analyseren hoe je onze site gebruikt. Om deze redenen kunnen we je sitegebruiksgegevens delen met onze analysepartners."
+
+#: includes/settings.php:110
+msgid "Cookies are small files that are stored on your browser. We use cookies and similar technologies to ensure our website works properly, and to personalize your browsing experience."
+msgstr "Cookies zijn kleine bestanden die in je browser worden opgeslagen. We gebruiken cookies en vergelijkbare technologieën om ervoor te zorgen dat onze site naar behoren werkt en om je browse-ervaring te personaliseren."
+
+#: includes/settings.php:109
+msgid "Cookies are small files that are stored on your browser. We use cookies and similar technologies to ensure our website works properly."
+msgstr "Cookies zijn kleine bestanden die in je browser worden opgeslagen. We gebruiken cookies en vergelijkbare technologieën om ervoor te zorgen dat onze site goed werkt."
+
+#: includes/welcome.php:192
+msgid "Skip for now"
+msgstr "Voor nu overslaan"
+
+#: includes/welcome.php:759
+msgid "Go to Cookie Compliance&trade; application now. Or access it anytime from your <a href=\"%s\">Cookie Notice settings page</a>."
+msgstr "Ga nu naar Cookie Compliance&trade; applicatie. Of open het op elk gewenst moment via je <a href=\"%s\">Cookie kennisgeving instellingen pagina</a>."
+
+#: includes/welcome.php:759
+msgid "You have successfully upgraded your website to Cookie Compliance&trade;"
+msgstr "Je hebt met succes je site geüpgraded naar Cookie Compliance&trade;"
+
+#: includes/welcome.php:758
+msgid "Success!"
+msgstr "Succes!"
+
+#: includes/welcome.php:587 includes/welcome.php:675
+msgid "Sign in"
+msgstr "Inloggen"
+
+#: includes/welcome.php:658
+msgid "Compliance Sign in"
+msgstr "Compliance aanmelden"
+
+#: includes/welcome.php:627 includes/welcome.php:729
+msgid "CVC/CVV"
+msgstr "CVC/CVV"
+
+#: includes/welcome.php:623 includes/welcome.php:725
+msgid "Expiration Date"
+msgstr "Vervaldatum"
+
+#: includes/welcome.php:619 includes/welcome.php:721
+msgid "Card Number"
+msgstr "Kaartnummer"
+
+#: includes/welcome.php:613 includes/welcome.php:715
+msgid "PayPal"
+msgstr "Paypal"
+
+#: includes/welcome.php:612 includes/welcome.php:714
+msgid "Credit Card"
+msgstr "Kredietkaart"
+
+#: includes/welcome.php:610 includes/welcome.php:712
+msgid "Payment Method"
+msgstr "Betaalmethode"
+
+#: includes/welcome.php:602 includes/welcome.php:704
+msgid "/yr"
+msgstr "/jr"
+
+#: includes/welcome.php:601 includes/welcome.php:703
+msgid "/mo"
+msgstr "/ma"
+
+#: includes/welcome.php:304
+msgid "Compliance Plans"
+msgstr "Plannen voor naleving"
+
+#: includes/welcome.php:573
+msgid "Sign Up"
+msgstr "Aanmelden"
+
+#: includes/welcome.php:565
+msgid "Confirm Password"
+msgstr "Bevestig wachtwoord"
+
+#: includes/welcome.php:562 includes/welcome.php:672
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: includes/welcome.php:559 includes/welcome.php:669
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: includes/welcome.php:548
+msgid "Compliance account"
+msgstr "Naleving account"
+
+#: includes/welcome.php:522
+msgid "Color of the button text."
+msgstr "Kleur van de knoptekst."
+
+#: includes/welcome.php:521
+msgid "Color of the heading text."
+msgstr "Kleur van de heading tekst."
+
+#: includes/welcome.php:520
+msgid "Color of the body text."
+msgstr "Kleur van de body tekst."
+
+#: includes/welcome.php:519
+msgid "Color of the borders and inactive elements."
+msgstr "Kleur van de randen en inactieve elementen."
+
+#: includes/welcome.php:518
+msgid "Color of the banner background."
+msgstr "Kleur van de banner achtergrond."
+
+#: includes/welcome.php:517
+msgid "Color of the buttons and interactive elements."
+msgstr "Kleur van de knoppen en interactieve elementen."
+
+#: includes/welcome.php:515
+msgid "Adjust the banner color scheme"
+msgstr "Pas het kleurenschema van de banner aan"
+
+#: includes/welcome.php:511
+msgid "Center"
+msgstr "Centrum"
+
+#: includes/welcome.php:510
+msgid "Right"
+msgstr "Rechts"
+
+#: includes/welcome.php:509
+msgid "Left"
+msgstr "Links"
+
+#: includes/welcome.php:505
+msgid "Select your preferred display position"
+msgstr "Selecteer je gewenste weergavepositie"
+
+#: includes/welcome.php:501
+msgid "Banner Design"
+msgstr "Banner ontwerp"
+
+#: includes/welcome.php:482
+msgid "I run targeted ads on my site using, for example, Google Adsense​"
+msgstr "Ik geef gerichte advertenties op mijn site weer met behulp van bijvoorbeeld Google Adsense"
+
+#: includes/welcome.php:481
+msgid "I collect and analyse information about my website’s traffic"
+msgstr "Ik verzamel en analyseer informatie over het verkeer op mijn site"
+
+#: includes/welcome.php:480
+msgid "I use personalization services on my site​"
+msgstr "Ik gebruik personalisatie diensten op mijn site"
+
+#: includes/welcome.php:474
+msgid "CCPA"
+msgstr "CCPA"
+
+#: includes/welcome.php:473
+msgid "GDPR"
+msgstr "GDPR"
+
+#: includes/welcome.php:471
+msgid "Select the laws that apply to your business"
+msgstr "Selecteer de wetten die op je bedrijf van toepassing zijn"
+
+#: includes/welcome.php:450
+msgid "Banner Compliance"
+msgstr "Naleving van banners"
+
+#: includes/welcome.php:420
+msgid "Site Name"
+msgstr "Site naam"
+
+#: includes/welcome.php:419
+msgid "Site URL"
+msgstr "Site URL"
+
+#: includes/welcome.php:391
+msgid "Go to Application"
+msgstr "Ga naar Applicatie"
+
+#: includes/welcome.php:388
+msgid "Log in to your Cookie Compliance&trade; account and continue configuring your Privacy Experience."
+msgstr "Log in op je Cookie Compliance&trade; account en ga verder met het configureren van je Privacy ervaring."
+
+#: includes/welcome.php:486
+msgid "Enable Cookie Categories (complies with GDPR Art.32)"
+msgstr "Cookie categorieën (in overeenstemming met GDPR artikel 32)"
+
+#: includes/settings.php:447 includes/welcome.php:171 includes/welcome.php:258
+msgid "The next generation of Cookie Notice"
+msgstr "Volgende generatie cookie kennisgeving"
+
+#: includes/welcome.php:55
+msgid "Please fill all the required fields."
+msgstr "Gelieve alle verplichte velden in te vullen."
+
+#: includes/welcome-api.php:161
+msgid "Passwords do not match."
+msgstr "Wachtwoorden komen niet overeen."
+
+#: includes/welcome-api.php:156 includes/welcome-api.php:341
+msgid "Password is not allowed to be empty."
+msgstr "Wachtwoord mag niet leeg zijn."
+
+#: includes/welcome-api.php:151 includes/welcome-api.php:336
+msgid "Email is not allowed to be empty."
+msgstr "E-mail mag niet leeg zijn."
+
+#: includes/welcome-api.php:146
+msgid "Please accept the Terms of Service to proceed."
+msgstr "Accepteer de Servicevoorwaarden om door te gaan."
+
+#: includes/welcome-api.php:116
+msgid "Unable to create customer data."
+msgstr "Klantgegevens kunnen niet worden gemaakt."
+
+#: includes/welcome-api.php:87
+msgid "Empty plan or payment method data."
+msgstr "Lege abonnement of betalingsmethodegegevens."
+
+#: includes/welcome-api.php:71 includes/welcome-api.php:204
+#: includes/welcome-api.php:243 includes/welcome-api.php:365
+#: includes/welcome-api.php:439 includes/welcome-api.php:824
+#: includes/welcome.php:49
+msgid "Unexpected error occurred. Please try again later."
+msgstr "Er is een onverwachte fout opgetreden. Probeer het later opnieuw."
+
+#: includes/welcome-api.php:35 includes/welcome-api.php:38
+#: includes/welcome-api.php:41 includes/welcome-api.php:44
+#: includes/welcome.php:140 includes/welcome.php:150 includes/welcome.php:153
+msgid "You do not have permission to access this page."
+msgstr "Je hebt geen toestemming om deze pagina te openen."
+
+#. Author of the plugin
+msgid "Hu-manity.co"
+msgstr "Hu-manity.co"
+
+#. Description of the plugin
+msgid "Cookie Notice allows you to you elegantly inform users that your site uses cookies and helps you comply with GDPR, CCPA and other data privacy laws."
+msgstr "Met de cookie kennisgeving kan je gebruikers op elegante wijze informeren dat je site cookies gebruikt en je helpt te voldoen aan de GDPR, CCPA en andere gegevensprivacywetten."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://hu-manity.co/"
+msgstr "https://hu-manity.co/"
+
+#. Plugin Name of the plugin
+msgid "Cookie Notice & Compliance for GDPR / CCPA"
+msgstr "Cookie Notice & Compliance for GDPR / CCPA"
+
+#: includes/settings.php:1018
+msgid "Bar opacity"
+msgstr "Balk ondoorzichtigheid"
+
+#: includes/settings.php:867
+msgid "The amount of time that the cookie should be stored for when the user doesn't accept the notice."
+msgstr "De hoeveelheid tijd dat de cookie moet worden opgeslagen wanneer de gebruiker de kennisgeving niet accepteert."
+
+#: includes/settings.php:844
+msgid "The amount of time that the cookie should be stored for when user accepts the notice."
+msgstr "De hoeveelheid tijd dat de cookie moet worden opgeslagen wanneer de gebruiker de kennisgeving accepteert."
+
+#: includes/settings.php:515
+msgid "Rejected expiry"
+msgstr "Afgewezen vervaldatum"
+
+#: includes/settings.php:514
+msgid "Accepted expiry"
+msgstr "Geaccepteerde vervaldatum"
+
+#: includes/settings.php:981
+msgid "Select the buttons style."
+msgstr "Selecteer de stijl van de knoppen."
+
+#: includes/settings.php:951
+msgid "Enable to accept the notice on any click on the page."
+msgstr "Inschakelen om de kennisgeving te accepteren bij elke klik op de pagina."
+
+#: includes/settings.php:940
+msgid "Number of pixels user has to scroll to accept the notice and make it disappear."
+msgstr "Aantal pixels dat de gebruiker moet scrollen om de kennisgeving te accepteren en te laten verdwijnen."
+
+#: includes/settings.php:937
+msgid "Enable to accept the notice when user scrolls."
+msgstr "Schakel dit in om de kennisgeving te accepteren wanneer de gebruiker scrolt."
+
+#: includes/settings.php:926
+msgid "Select the animation style."
+msgstr "Selecteer de animatiestijl."
+
+#: includes/settings.php:905
+msgid "Select location for the notice."
+msgstr "Selecteer locatie voor de kennisgeving."
+
+#: includes/settings.php:774
+msgid "Select where to redirect user for more information."
+msgstr "Selecteer waar de gebruiker moet worden omgeleid voor meer informatie."
+
+#: includes/settings.php:715
+msgid "Enter the revoke message."
+msgstr "Voer het intrekkingsbericht in."
+
+#: includes/settings.php:671
+msgid "The text of the button to refuse the consent."
+msgstr "De tekst van de knop om de toestemming te weigeren."
+
+#: includes/settings.php:657
+msgid "The text of the option to accept the notice and make it disappear."
+msgstr "De tekst van de optie om de melding te accepteren en te laten verdwijnen."
+
+#: includes/settings.php:513
+msgid "On click"
+msgstr "Bij klikken"
+
+#: includes/settings.php:508
+msgid "Refuse consent"
+msgstr "Toestemming weigeren"
+
+#: includes/settings.php:388 includes/settings.php:509
+msgid "Revoke consent"
+msgstr "Toestemming intrekken"
+
+#: includes/settings.php:387
+msgid "You can revoke your consent any time using the Revoke consent button."
+msgstr "Je kunt je toestemming op elk moment intrekken met de knop toestemming intrekken."
+
+#: includes/settings.php:55
+msgid "Dark"
+msgstr "Donker"
+
+#: includes/settings.php:54
+msgid "Light"
+msgstr "Licht "
+
+#: includes/settings.php:821
+msgid "Select the privacy policy link position."
+msgstr "Selecteer de linkpositie van het privacybeleid."
+
+#: includes/settings.php:74
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/settings.php:762
+msgid "The text of the privacy policy button."
+msgstr "De tekst van de privacybeleid knop."
+
+#: includes/settings.php:994
+msgid "Enter additional button CSS classes separated by spaces."
+msgstr "Voer aanvullende CSS klassen in voor knoppen, gescheiden door spaties."
+
+#: includes/settings.php:811
+msgid "Select the privacy policy link target."
+msgstr "Selecteer het doel voor de koppeling van het privacybeleid."
+
+#: includes/settings.php:794
+msgid "Synchronize with WordPress Privacy Policy page."
+msgstr "Synchroniseer met de WordPress Privacybeleid pagina."
+
+#: includes/settings.php:759
+msgid "Enable privacy policy link."
+msgstr "Schakel privacybeleid link in."
+
+#: includes/settings.php:725
+msgid "Select the method for displaying the revoke button - automatic (in the banner) or manual using <code>[cookies_revoke]</code> shortcode."
+msgstr "Selecteer de methode voor het tonen van de afwijzing knop - automatisch (in de banner) of handmatig middels gebruik van de <code>[cookies_revoke]</code> shortcode."
+
+#: includes/settings.php:717
+msgid "The text of the button to revoke the consent."
+msgstr "De tekst van de knop om instemming te weigeren."
+
+#: includes/settings.php:712
+msgid "Enable to give to the user the possibility to revoke their consent <i>(requires \"Refuse consent\" option enabled)</i>."
+msgstr "Geef de gebruiker de mogelijkheid zijn instemming af te wijzen <i>(optie 'Instemming weigeren' inschakelen vereist)</i>."
+
+#: includes/settings.php:697
+msgid "The code to be used in your site footer, before the closing body tag."
+msgstr "De te gebruiken code in de footer van je site, vóór de body closing tag."
+
+#: includes/settings.php:693
+msgid "The code to be used in your site header, before the closing head tag."
+msgstr "De te gebruiken code in de header van je site, vóór de closing head tag."
+
+#: includes/settings.php:690
+msgid "Body"
+msgstr "Body"
+
+#: includes/settings.php:689
+msgid "Head"
+msgstr "Kop"
+
+#: includes/settings.php:524
+msgid "Button class"
+msgstr "Knop klasse"
+
+#: includes/settings.php:123 includes/settings.php:389
+#: includes/settings.php:507
+msgid "Privacy policy"
+msgstr "Privacybeleid"
+
+#: includes/settings.php:122
+msgid "Revoke Cookies"
+msgstr "Cookies herroepen"
+
+#: includes/settings.php:86
+msgid "An hour"
+msgstr "Een uur"
+
+#: includes/settings.php:60
+msgid "Manual"
+msgstr "Handmatig"
+
+#: includes/settings.php:59
+msgid "Automatic"
+msgstr "Automatisch"
+
+#: includes/settings.php:736
+msgid "Enable to reload the page after the notice is accepted."
+msgstr "Schakel het herladen van de pagina in nadat de kennisgeving is geaccepteerd."
+
+#: includes/settings.php:511
+msgid "Reloading"
+msgstr "Herladen"
+
+#: includes/settings.php:701
+msgid "To get the user consent status use the <code>cn_cookies_accepted()</code> function."
+msgstr "Om de status van de cookiemelding te krijgen gebruik je de functie <code>cn_cookies_accepted()</code>."
+
+#: includes/settings.php:510
+msgid "Script blocking"
+msgstr "Script blokkering"
+
+#: includes/settings.php:1193
+msgid "Are you sure you want to reset these settings to defaults?"
+msgstr "Weet je zeker dat je de instellingen naar standaard wilt resetten?"
+
+#: cookie-notice.php:470
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/settings.php:1166
+msgid "Settings restored to defaults."
+msgstr "Standaardinstellingen teruggezet"
+
+#: includes/settings.php:885
+msgid "Select where all the plugin scripts should be placed."
+msgstr "Selecteer waar alle plugin-scripts geplaatst moeten worden."
+
+#: includes/settings.php:801
+msgid "Enter the full URL starting with http(s)://"
+msgstr "Geef de volledige URL, beginnend met http(s)://"
+
+#: includes/settings.php:788
+msgid "Select from one of your site's pages."
+msgstr "Kies een van de pagina's van de site."
+
+#: includes/settings.php:777
+msgid "-- select page --"
+msgstr "-- selecteer pagina --"
+
+#: includes/settings.php:701
+msgid "Enter non functional cookies Javascript code here (for e.g. Google Analitycs) to be used after the notice is accepted."
+msgstr "Voer de JavaScript code voor niet functionele cookies (bijv. Google Analytics) die gebruikt moet worden nadat de kennisgeving is geaccepteerd, hier in."
+
+#: includes/settings.php:667
+msgid "Enable to give to the user the possibility to refuse third party non functional cookies."
+msgstr "Geef de gebruiker de mogelijkheid om third-party niet functionele cookies te weigeren."
+
+#: includes/settings.php:646
+msgid "Enter the cookie notice message."
+msgstr "Voer de cookie kennisgevingsbericht in."
+
+#: includes/settings.php:961
+msgid "Enable if you want all plugin data to be deleted on deactivation."
+msgstr "Schakel dit in als je alle plugin-gegevens wilt verwijderen bij het deactiveren."
+
+#: includes/settings.php:525
+msgid "Colors"
+msgstr "Kleuren"
+
+#: includes/settings.php:523
+msgid "Button style"
+msgstr "Stijl knop"
+
+#: includes/settings.php:522
+msgid "Animation"
+msgstr "Animatie"
+
+#: includes/settings.php:521
+msgid "Position"
+msgstr "Positie"
+
+#: includes/settings.php:495 includes/settings.php:517
+msgid "Deactivation"
+msgstr "Deactiveren"
+
+#: includes/settings.php:494 includes/settings.php:516
+msgid "Script placement"
+msgstr "Script plaatsing"
+
+#: includes/settings.php:512
+msgid "On scroll"
+msgstr "Bij scrollen"
+
+#: includes/settings.php:506
+msgid "Button text"
+msgstr "Knop-tekst"
+
+#: includes/settings.php:75 includes/settings.php:505
+msgid "Message"
+msgstr "Bericht"
+
+#: includes/settings.php:468
+msgid "Reset to defaults"
+msgstr "Resetten naar standaardinstellingen"
+
+#: includes/settings.php:424 includes/welcome.php:426
+msgid "Cookie Notice"
+msgstr "Cookie kennisgeving"
+
+#: includes/settings.php:386
+msgid "No"
+msgstr "Nee"
+
+#: includes/settings.php:385
+msgid "Ok"
+msgstr "Ok"
+
+#: includes/settings.php:384
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr "We gebruiken cookies om ervoor te zorgen dat onze site zo soepel mogelijk draait. Als je doorgaat met het gebruiken van deze site, gaan we ervan uit dat je ermee instemt."
+
+#: includes/settings.php:105
+msgid "Footer"
+msgstr "Footer"
+
+#: includes/settings.php:104
+msgid "Header"
+msgstr "Header"
+
+#: includes/settings.php:100
+msgid "Slide"
+msgstr "Schuiven"
+
+#: includes/settings.php:99
+msgid "Fade"
+msgstr "Vervagen"
+
+#: includes/settings.php:93
+msgid "infinity"
+msgstr "eindeloos"
+
+#: includes/settings.php:92
+msgid "1 year"
+msgstr "1 jaar"
+
+#: includes/settings.php:91
+msgid "6 months"
+msgstr "6 maanden"
+
+#: includes/settings.php:90
+msgid "3 months"
+msgstr "3 maanden"
+
+#: includes/settings.php:89
+msgid "1 month"
+msgstr "1 maand"
+
+#: includes/settings.php:88
+msgid "1 week"
+msgstr "1 week"
+
+#: includes/settings.php:87
+msgid "1 day"
+msgstr "1 dag"
+
+#: includes/settings.php:80
+msgid "Bar color"
+msgstr "Balkkleur"
+
+#: includes/settings.php:79
+msgid "Text color"
+msgstr "Tektskleur"
+
+#: includes/settings.php:64
+msgid "Page link"
+msgstr "Paginalink"
+
+#: includes/settings.php:65
+msgid "Custom link"
+msgstr "Aangepaste link"
+
+#: includes/settings.php:53 includes/settings.php:98
+msgid "None"
+msgstr "Geen"
+
+#: includes/settings.php:49 includes/welcome.php:507
+msgid "Bottom"
+msgstr "Onderkant"
+
+#: includes/settings.php:48 includes/welcome.php:508
+msgid "Top"
+msgstr "Bovenkant"
